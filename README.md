@@ -7,7 +7,6 @@ At aify, we are committed to protecting your privacy. This Privacy Policy applie
 # 2. Information We Collect
 When you use the Application, we may collect the following information:
 - Subscription and payment data (processed securely via Apple App Store).
-- Device and usage information (e.g., device model, operating system, IP address, app usage statistics).
 - Uploaded photos used for AI transformations (anime, cartoon, fantasy, future baby, avatars, portraits, action figures, etc.) — processed temporarily.
 
 # 3. How We Use Your Information
