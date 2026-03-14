@@ -1,8 +1,8 @@
-# Privacy Policy – aify: AI Photo Generator & Art
+# Privacy Policy – aixy
 Last Updated: [2025/10/4]
 
 # 1. Acceptance of Terms
-At aify, we are committed to protecting your privacy. This Privacy Policy applies to the aify application (the "Application") and is part of our Terms of Use. By accessing or using the Application, you acknowledge and fully understand this Privacy Policy and consent to the practices described here.
+At aixy, we are committed to protecting your privacy. This Privacy Policy applies to the aixy application (the "Application") and is part of our Terms of Use. By accessing or using the Application, you acknowledge and fully understand this Privacy Policy and consent to the practices described here.
 
 # 2. Information We Collect
 When you use the Application, we may collect the following information:
@@ -48,4 +48,4 @@ We may update this Privacy Policy from time to time. Updates will be posted here
 
 # 8. Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us:
-Email: app.aify@gmail.com
+Email: tunahanaktay.apps@gmail.com
