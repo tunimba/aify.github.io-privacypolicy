@@ -1,5 +1,5 @@
 # Privacy Policy – aixy
-Last Updated: [2025/10/4]
+Last Updated: [2026/4/15]
 
 # 1. Acceptance of Terms
 At aixy, we are committed to protecting your privacy. This Privacy Policy applies to the aixy application (the "Application") and is part of our Terms of Use. By accessing or using the Application, you acknowledge and fully understand this Privacy Policy and consent to the practices described here.
