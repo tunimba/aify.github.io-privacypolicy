@@ -1,6 +1,6 @@
 # Privacy Policy — Aixy
 
-Last Updated: 2026/3/15
+Last Updated: 2026/9/30
 
 ## 1. Acceptance of Terms
 
@@ -58,7 +58,7 @@ This section describes in detail how Aixy handles face data in compliance with A
 
 ### What face data does the app collect?
 
-Aixy does **not** collect, store, or retain any face data. Photos you upload may contain faces, but the app does not extract, analyze, or store any facial features, biometric identifiers, or face geometry data. The uploaded photo is processed as a whole image; no face-specific data is isolated or recorded at any point.
+Aixy does **not** collect face data. Photos you upload may contain faces, but the app does not extract, analyze, or store any facial features, biometric identifiers, or face geometry data. The uploaded photo is processed as a whole image; no face-specific data is isolated or recorded at any point. Your before-and-after photos are kept only on your own device, in the app's History, until you delete them (see Section 4).
 
 ### How is face data used?
 
@@ -72,14 +72,14 @@ No other third party receives or has access to your photos or any face data.
 
 ### How long is face data retained?
 
-Face data is **not retained** by us or by any third party. Photos exist in OpenRouter's processing pipeline only for the duration of the transformation (typically seconds) and are automatically discarded upon completion. We do not maintain any copies, backups, or derivatives of your photos on our servers.
+Face data is **not retained** by us or by any third party. Photos exist in OpenRouter's processing pipeline only for the duration of the transformation (typically seconds) and are automatically discarded upon completion. We do not maintain any copies, backups, or derivatives of your photos on our servers. The only copies are the before-and-after photos saved on your own device in the app's History, which you can delete at any time.
 
 ### Summary
 
 | Question | Answer |
 |----------|--------|
 | Face data collected? | No. Photos processed as whole images; no face data extracted. |
-| Face data stored? | No. Not retained by us or any third party. |
+| Face data stored? | Only on your device: your before-and-after photos stay in the app's History until you delete them. Never on our servers or by any third party. |
 | Biometric analysis performed? | No. No facial recognition, face mapping, or identity analysis. |
 | Face data shared? | Photos sent to OpenRouter for processing only; immediately discarded. |
 | OpenRouter stores face data? | No. Discarded immediately after transformation. |
@@ -88,7 +88,8 @@ Face data is **not retained** by us or by any third party. Photos exist in OpenR
 ## 4. How We Process Your Photos
 
 - **Temporary processing:** Uploaded photos are sent to our third-party AI provider, OpenRouter, Inc., for AI-powered photo generation, photo filters, image enhancement, and creative photo transformations.
-- **No storage:** Once the transformation is complete, the image is returned to your device and the original photo is automatically discarded by OpenRouter. We do not store photos on our own servers.
+- **No server storage:** Once the transformation is complete, the image is returned to your device and the original photo is automatically discarded by OpenRouter. We do not store photos on our own servers.
+- **History on your device:** Each finished transformation, the original photo together with its result, is saved in the app's History so you can revisit it. History is stored only on your device, is excluded from iCloud and device backups, and is never uploaded. You can delete individual items or clear your History at any time; deleting the app also removes it.
 - **No biometric analysis:** The app does not extract or analyze facial features for identification or profiling purposes. No biometric identifiers are created, inferred, or retained.
 - **No human review:** All processing is handled by automated AI models. No employee accesses or views your images unless you explicitly contact our support team for help.
 
@@ -108,8 +109,8 @@ These services process data only to the extent required for their core functions
 
 ## 6. Data Retention
 
-- **Photos:** Not stored. Discarded immediately after transformation by OpenRouter.
-- **Face data:** Not retained. No face data is extracted, stored, or retained at any point.
+- **Photos:** Kept only on your device, in the app's History, until you delete them or delete the app. Not stored on our servers, and discarded by OpenRouter immediately after the transformation.
+- **Face data:** Not retained. No face data or biometric identifiers are extracted or retained at any point.
 - **Analytics and diagnostics:** Retained in anonymous, aggregated form by third-party providers according to their own retention policies.
 - **Purchase information:** Managed by Apple and RevenueCat under their respective privacy and retention policies.
 - **No user data is linked to personal identity.**
